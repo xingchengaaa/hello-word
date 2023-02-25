@@ -1,2 +1,5 @@
-# hello-word
-My first repository on GitHub.
+hello-word
+====================
+My first repository on GitHub!
+
+I love :coffee:,:pizza:,and :dancer:.
